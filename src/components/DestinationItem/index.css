@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.card-container {
+  list-style: none;
+  text-align: center;
+}
+.card-container > img {
+  width: 50%;
+}
+h1 {
+  font-size: 15px;
+}
